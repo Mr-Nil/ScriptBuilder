@@ -6,4 +6,7 @@ Some scripts WILL be encrypted before added to the repository to prevent expansi
 
 Most of these scripts were designed ONLY for "Anaminus- Script Builders", some scripts may only work on those but most should be fine.
 
+
+If you have an original script you would like to contribute, please PM me at MrNil on ROBLOX or Email me from my Git.
+
 -MrNil
